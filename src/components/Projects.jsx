@@ -97,7 +97,7 @@ const Projects = () => {
             <motion.div
               key={index}
               whileHover={{ scale: 1.05 }}
-              className="bg-gray-800 rounded-xl overflow-hidden shadow-lg"
+              className="bg-gray-800 rounded-xl overflow-hidden shadow-lg  hover:shadow-cyan-500/40 transition duration-300"
             >
               {/* Screenshot */}
               <img
