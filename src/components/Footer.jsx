@@ -16,7 +16,7 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="py-6 bg-gray-900 text-center text-gray-400">
-      © {new Date().getFullYear()} Lucky | MERN Stack Developer
+      © {new Date().getFullYear()} Harshita | MERN Stack Developer
     </footer>
   );
 };
