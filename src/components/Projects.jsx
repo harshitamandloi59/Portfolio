@@ -62,14 +62,14 @@ const projectData = [
     img: "/images/learnAndAchieve.png",
     desc: "A large-scale MERN learning platform with classes, subjects, mock tests, authentication, role-based access, and CRUD operations.",
     github: "https://github.com/your-username/learn-achieve",
-    live: "#",
+    live: "https://learnandachieve.in/",
   },
   {
     title: "CICO – Check-In Check-Out System",
     img: "/images/cico.png",
     desc: "A MERN-based real-time attendance system enabling efficient check-in and check-out tracking.",
     github: "https://github.com/your-username/cico-system",
-    live: "#",
+    live: "https://play.google.com/store/apps/details?id=com.dollop.smarttracko&hl=en_IN",
   },
   {
     title: "Chat Application (MERN Stack)",
